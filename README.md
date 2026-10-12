@@ -42,7 +42,7 @@ This dimension uses publicly available official statistics on cereal and potato 
 
 **DESTATIS - Price Index (Monthly, 2020=100, 1991-2026)**
 
-[*Price Index Bread Wheat - Feed Wheat - Feed Barley - Malting Barley - Seed Potatoes - Ware Potatoes*](https://genesis.destatis.de/datenbank/online/url/465076c8)
+[*Price Index Bread Wheat - Feed Wheat - Feed Barley - Malting Barley - Seed Potato - Ware Potato*](https://genesis.destatis.de/datenbank/online/url/465076c8)
 
 **Methodological references**
 
