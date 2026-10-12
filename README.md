@@ -44,7 +44,8 @@ This dimension uses publicly available official statistics on cereal and potato 
 
 [*Price Index Bread Wheat - Feed Wheat - Feed Barley - Malting Barley - Seed Potato - Ware Potato*](https://genesis.destatis.de/datenbank/online/url/465076c8)
 
-**BMELH - Agricultural Producer Prices (Year, 2009-2024)
+**BMELH - Agricultural Producer Prices (Year, 2009-2024)**
+
 [*Soft Wheat - Barley - Malting Barley - Ware Potato*](https://bmel-statistik.de/preise/absolute-agrarpreise?utm_source=chatgpt.com)
 
 **Methodological references**
