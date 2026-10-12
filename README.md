@@ -56,7 +56,7 @@ This dimension uses publicly available official statistics for Germany.
 
 [*Soft Wheat - Barley - Malting Barley - Ware Potato*](https://bmel-statistik.de/preise/absolute-agrarpreise?utm_source=chatgpt.com)
 
-**FAOSTAT - AGricultural Producer Prices (Monthly, 1991-2025)**
+**FAOSTAT - AGricultural Producer Prices (Monthly, 1991-2026)**
 
 [*Wheat - Barley - Potato*](https://www.fao.org/faostat/en/#data/PP)
 
