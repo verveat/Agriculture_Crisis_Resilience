@@ -38,7 +38,7 @@ This dimension uses publicly available official statistics on cereal and potato 
 
 **DESTATIS - Foreign Trade STatistics**
 
-[*Foreign_Trade*] (https://genesis.destatis.de/datenbank/online/url/aeb0bf5d)
+[*Foreign_Trade*](https://genesis.destatis.de/datenbank/online/url/aeb0bf5d)
 
 **Methodological references**
 
