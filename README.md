@@ -22,7 +22,7 @@
 
 ### 1. Availability and Supply Balance
 
-This dimension uses publicly available official statistics on cereal and potato supply balances in Germany.
+This dimension uses publicly available official statistics for Germany.
 
 **BMELH – Official Agricultural Statistics (Production Balance, Market Balance, Overall Balance, Financial Year, 2011-2025)**
 
