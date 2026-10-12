@@ -26,7 +26,7 @@ This dimension uses publicly available official statistics on cereal and potato 
 
 **BMEL – Official Agricultural Statistics (Economic Year, 1990-2025)**
 
-[*Soft Wheat Barley Supply Balance *](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/getreide)
+[*Soft Wheat Barley Supply Balance*](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/getreide)
 
 [*Potato Supply Balance*](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/kartoffeln)
 
