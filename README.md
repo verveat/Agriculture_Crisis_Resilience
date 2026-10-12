@@ -24,13 +24,13 @@
 
 This dimension uses publicly available official statistics on cereal and potato supply balances in Germany.
 
-**BMELH – Official Agricultural Statistics (Economic Year, 1990-2025)**
+**BMELH – Official Agricultural Statistics (Economic Year, 2011-2025)**
 
 [*Soft Wheat Barley Supply Balance*](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/getreide)
 
 [*Potato Supply Balance*](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/kartoffeln)
 
-**BLE – Open Data**
+**BLE – Open Data (Overall supply balance, Economic Year, 1991-2025)**
 
 [*Soft Wheat Barley Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-getreide)
 
