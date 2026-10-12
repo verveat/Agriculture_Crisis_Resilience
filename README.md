@@ -76,7 +76,7 @@ There is no single universally applicable classification of all crises affecting
 
 * 🟢 Project Concept
 * 🟢 Data Collection
-* 🟡 Data Exploration
+* 🟢 Data Exploration
 * 🔴 Data Cleaning and Preparation
 * 🔴 Data Analysis
 * 🔴 Data Visualisation
