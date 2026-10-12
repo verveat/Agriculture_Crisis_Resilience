@@ -36,9 +36,9 @@ This dimension uses publicly available official statistics on cereal and potato 
 
 [*Potato Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-kartoffeln)
 
-**DESTATIS - Foreign Trade STatistics**
+**DESTATIS - Foreign Trade Statistics**
 
-[*Foreign_Trade*](https://genesis.destatis.de/datenbank/online/url/aeb0bf5d)
+[*Foreign_Trade_Wheat_Barley_Potatoes*](https://genesis.destatis.de/datenbank/online/url/aeb0bf5d)
 
 **Methodological references**
 
