@@ -41,6 +41,7 @@ This dimension uses publicly available official statistics on cereal and potato 
 [*Foreign Trade Wheat and Meslin Barley Potatoes*](https://genesis.destatis.de/datenbank/online/url/aeb0bf5d)
 
 **DESTATIS - Price Index (Monthly, 2020=100, 1990-2025)**
+
 [*Price Index Bread Wheat Feed Wheat Barley Potatoes*](https://genesis.destatis.de/datenbank/online/url/465076c8)
 
 **Methodological references**
