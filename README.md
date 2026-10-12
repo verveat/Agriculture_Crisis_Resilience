@@ -30,19 +30,19 @@ This dimension uses publicly available official statistics on cereal and potato 
 
 **BLE – Open Data (Overall supply balance, Financial Year, 1991-2025)**
 
-[*Soft Wheat Barley Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-getreide) | [*Potato Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-kartoffeln)
+[*Soft Wheat - Barley Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-getreide) | [*Potato Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-kartoffeln)
 
 **DESTATIS - Harvest and Farm Report (Area under Cultivation, Production, Yield, Year, 2010-2026)
 
-[*Winter Wheat Spring Wheat Winter Barley Summer Barley Potatoes*](https://genesis.destatis.de/datenbank/online/url/fb99c6a2)
+[*Winter Wheat - Spring Wheat - Winter Barley - Summer Barley - Potatoes*](https://genesis.destatis.de/datenbank/online/url/fb99c6a2)
 
 **DESTATIS - Foreign Trade Statistics (Monthly, 2008-2025)**
 
-[*Foreign Trade Wheat and Meslin Barley Potatoes*](https://genesis.destatis.de/datenbank/online/url/aeb0bf5d)
+[*Foreign Trade Wheat and Meslin - Barley - Potato*](https://genesis.destatis.de/datenbank/online/url/aeb0bf5d)
 
 **DESTATIS - Price Index (Monthly, 2020=100, 1991-2026)**
 
-[*Price Index Bread Wheat Feed Wheat Feed Barley Malting Barley Seed Potatoes Ware Potatoes*](https://genesis.destatis.de/datenbank/online/url/465076c8)
+[*Price Index Bread Wheat - Feed Wheat - Feed Barley - Malting Barley - Seed Potatoes - Ware Potatoes*](https://genesis.destatis.de/datenbank/online/url/465076c8)
 
 **Methodological references**
 
