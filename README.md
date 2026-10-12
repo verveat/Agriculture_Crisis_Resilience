@@ -36,7 +36,7 @@ This dimension uses publicly available official statistics on cereal and potato 
 
 [*Potato Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-kartoffeln)
 
-**DESTATIS - Crop Production Statistics (Area under cultivation, Production, Yield, Year, 2010-2026)
+**DESTATIS - Harvest and Farm Report (Area under cultivation, Production, Yield, Year, 2010-2026)
 
 [*Winter Wheat Spring Wheat Winter Barley Summer Barley Potatoes*](https://genesis.destatis.de/datenbank/online/url/fb99c6a2)
 
