@@ -56,6 +56,10 @@ This dimension uses publicly available official statistics for Germany.
 
 [*Soft Wheat - Barley - Malting Barley - Ware Potato*](https://bmel-statistik.de/preise/absolute-agrarpreise?utm_source=chatgpt.com)
 
+**FAOSTAT - AGricultural Producer Prices (Monthly, 1991-2025)**
+
+[*Wheat - Barley - Potato*](https://www.fao.org/faostat/en/#data/PP)
+
 ## Risk Categories and Transmission Mechanisms
 
 There is no single universally applicable classification of all crises affecting agricultural markets. This overview draws on established institutional frameworks, particularly the OECD's agricultural risk management framework and the FAO's work on agricultural supply chains. The categories below provide a structured synthesis rather than a verbatim reproduction of one official taxonomy.
