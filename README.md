@@ -40,6 +40,14 @@ This dimension uses publicly available official statistics for Germany.
 
 [*Foreign Trade Wheat and Meslin - Barley - Potato*](https://genesis.destatis.de/datenbank/online/url/aeb0bf5d)
 
+**Methodological references**
+
+**Agricultural commodity balances:** [BMEL – Grundlagen der Versorgungsbilanzen](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/grundlagen)
+
+**Foreign trade product classification:** [Destatis – Warenverzeichnis für die Außenhandelsstatistik](https://www.destatis.de/DE/Methoden/Klassifikationen/Aussenhandel/warenverzeichnis-aussenhandel.html)
+
+### 2. Price Stability
+
 **DESTATIS - Price Index (Monthly, 2020=100, 1991-2026)**
 
 [*Price Index Bread Wheat - Feed Wheat - Feed Barley - Malting Barley - Seed Potato - Ware Potato*](https://genesis.destatis.de/datenbank/online/url/465076c8)
@@ -47,13 +55,6 @@ This dimension uses publicly available official statistics for Germany.
 **BMELH - Agricultural Producer Prices (Year, 2009-2024)**
 
 [*Soft Wheat - Barley - Malting Barley - Ware Potato*](https://bmel-statistik.de/preise/absolute-agrarpreise?utm_source=chatgpt.com)
-
-**Methodological references**
-
-**Agricultural commodity balances:** [BMEL – Grundlagen der Versorgungsbilanzen](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/grundlagen)
-
-**Foreign trade product classification:** [Destatis – Warenverzeichnis für die Außenhandelsstatistik](https://www.destatis.de/DE/Methoden/Klassifikationen/Aussenhandel/warenverzeichnis-aussenhandel.html)
-
 
 ## Risk Categories and Transmission Mechanisms
 
