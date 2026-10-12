@@ -24,7 +24,7 @@
 
 This dimension uses publicly available official statistics on cereal and potato supply balances in Germany.
 
-**BMELH – Official Agricultural Statistics (Production Balance, Market Balance, Overall Balance, Economic Year, 2011-2025)**
+**BMELH – Official Agricultural Statistics (Production Balance, Market Balance, Overall Balance, Financial Year, 2011-2025)**
 
 [*Soft Wheat Barley Supply Balance*](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/getreide)
 
