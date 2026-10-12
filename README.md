@@ -30,9 +30,7 @@ This dimension uses publicly available official statistics on cereal and potato 
 
 **BLE – Open Data (Overall supply balance, Financial Year, 1991-2025)**
 
-[*Soft Wheat Barley Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-getreide)
-
-[*Potato Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-kartoffeln)
+[*Soft Wheat Barley Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-getreide) | [*Potato Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-kartoffeln)
 
 **DESTATIS - Harvest and Farm Report (Area under Cultivation, Production, Yield, Year, 2010-2026)
 
