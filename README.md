@@ -30,7 +30,7 @@ This dimension uses publicly available official statistics on cereal and potato 
 
 [*Potato Supply Balance*](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/kartoffeln)
 
-**BLE – Open Data (Overall supply balance, Economic Year, 1991-2025)**
+**BLE – Open Data (Overall supply balance, Financial Year, 1991-2025)**
 
 [*Soft Wheat Barley Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-getreide)
 
