@@ -60,6 +60,10 @@ This dimension uses publicly available official statistics for Germany.
 
 [*Wheat - Barley - Potato*](https://www.fao.org/faostat/en/#data/PP)
 
+**DESTATIS - Purchase Price Indices of Agricultural Inputs (Quarterly, 2020=100)**
+
+[*Energy and lubricants - Fertiliser](https://genesis.destatis.de/datenbank/online/url/a049c6fc)
+
 ## Risk Categories and Transmission Mechanisms
 
 There is no single universally applicable classification of all crises affecting agricultural markets. This overview draws on established institutional frameworks, particularly the OECD's agricultural risk management framework and the FAO's work on agricultural supply chains. The categories below provide a structured synthesis rather than a verbatim reproduction of one official taxonomy.
