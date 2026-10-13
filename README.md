@@ -100,7 +100,7 @@ This dimension uses publicly available official statistics for Germany.
 
 [*Soft Wheat - Barley Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-getreide) | [*Potato Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-kartoffeln)
 
-*Data quality note: The combined dataset contains 1,646 records: 578 for barley, 490 for potatoes, and 578 for soft wheat. The differences in record counts were checked against the original source data and were confirmed to exist in the raw data. Therefore, the differences were not caused by the data consolidation process. Missing values are retained for further investigation rather than being automatically replaced or removed.*
+*Data quality note: The combined dataset contains 1,646 records: 578 for barley, 490 for potatoes, and 578 for soft wheat. The differences in record counts were checked against the original source data and were confirmed to exist in the raw data. Therefore, the differences were not caused by the data consolidation process. Missing values are retained for further investigation rather than being automatically replaced or removed. The dataset contains 17 records per year for barley and soft wheat and 14 records per year for potatoes. A comparison of balance positions for the financial year 1991/92 showed that the product balances differ in their structure and include product-specific positions and differently named categories. The differences in record counts were also verified against the original source data. No records have been deleted, and no missing values have been replaced. The original data structure is retained for further analysis.*
 
 **DESTATIS - Harvest and Farm Report (Area under Cultivation, Production, Yield, Year, 2010-2026)**
 
