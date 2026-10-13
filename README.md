@@ -32,7 +32,7 @@ This dimension uses publicly available official statistics for Germany.
 
 [*Soft Wheat - Barley Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-getreide) | [*Potato Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-kartoffeln)
 
-**DESTATIS - Harvest and Farm Report (Area under Cultivation, Production, Yield, Year, 2010-2026)
+**DESTATIS - Harvest and Farm Report (Area under Cultivation, Production, Yield, Year, 2010-2026)**
 
 [*Winter Wheat - Spring Wheat - Winter Barley - Summer Barley - Potato*](https://genesis.destatis.de/datenbank/online/url/fb99c6a2)
 
