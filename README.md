@@ -154,7 +154,7 @@ This dimension uses publicly available official statistics for Germany.
 **Assessment of Market Resilience.** The assessment depends on the selected indicators, reference periods and availability of post-crisis data. Changes in production, supply or prices capture only selected dimensions of resilience and do not necessarily establish the overall capacity of a market to absorb, adapt to or recover from shocks.
 
 **Incomplete Data for Recent Periods.** 
-*Data for the most recent period may be incomplete, preliminary or subject to revision. The main quantitative analysis therefore focuses on 2008–2025, subject to the coverage and comparability of the individual datasets. More recent observations may be included as supplementary context where appropriate.*
+Data for the most recent period may be incomplete, preliminary or subject to revision. The main quantitative analysis therefore focuses on 2008–2025, subject to the coverage and comparability of the individual datasets. More recent observations may be included as supplementary context where appropriate.
 
 ## Project Status
 
