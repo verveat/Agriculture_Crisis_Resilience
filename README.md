@@ -71,7 +71,7 @@ There is no single universally applicable classification of all crises affecting
 | **Risk Category**                   | **Examples of Risk Drivers**                                          | **Potential Transmission Mechanisms**                                     |
 | ----------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | **Production Risks**                | Droughts, heatwaves, floods, pests and diseases                       | Crop yields, production volumes and domestic supply                       |
-| **Market and Price Risks**          | Commodity price volatility, changes in supply and demand              | Producer prices, market revenues and price volatility                     |
+| **Market and Price Risks**          | Shifts in supply and demand, global commodity price shocks and market disruptions              | Transmission of international price changes to domestic producer prices; changes in farm revenues and production incentives                     |
 | **Input Cost Risks**                | Energy, fertiliser, fuel and other input price increases              | Production costs, input use and production decisions                      |
 | **Trade and Supply Chain Risks**    | Export restrictions, transport disruptions and logistical bottlenecks | Import availability, trade flows, delivery times and transport costs      |
 | **Financial Risks**                 | Interest rate changes, credit constraints and liquidity shortages     | Financing costs, investment and farm liquidity                            |
