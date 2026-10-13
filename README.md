@@ -18,7 +18,7 @@
 **Approach.**<br> Data collection and preparation, exploratory analysis, and visualisation of market and price dynamics, as well as international trade dependencies, to investigate shock magnitude, response timing, shock duration, and recovery patterns.
 
 
-## Risk Categories and Transmission Mechanisms
+## Conceptual Framework: Risk Categories and Transmission Mechanisms
 
 There is no single universally applicable classification of all crises affecting agricultural markets. This overview draws on established institutional frameworks, particularly the OECD's agricultural risk management framework and the FAO's work on agricultural supply chains. The categories below provide a structured synthesis rather than a verbatim reproduction of one official taxonomy.
 
@@ -35,7 +35,7 @@ There is no single universally applicable classification of all crises affecting
 *Conceptual sources: [OECD – Strengthening Agricultural Resilience in the Face of Multiple Risks (2020)](https://doi.org/10.1787/2250453e-en) · [FAO – Guidelines to Increase the Resilience of Agricultural Supply Chains](https://www.fao.org/markets-and-trade/areas-of-work/emerging-trends-challenges-and-opportunities/guidelines-to-increase-the-resilience-of-agricultural-supply-chains/).The risk categories presented here constitute a structured synthesis of established institutional frameworks and may overlap. They do not represent a single, universally adopted official classification. The risk drivers illustrate factors and developments that may generate or amplify risks, while the transmission mechanisms describe potential pathways through which these risks may affect agricultural markets. Their relevance and empirical effects on the German soft wheat, barley and potato markets will be investigated in this project. Additional sources: [FAO – Agricultural Commodity Markets](https://www.fao.org/publications/fao-flagship-publications/the-state-of-agricultural-commodity-markets/) · [European Commission – Fertiliser Markets](https://agriculture.ec.europa.eu/data-and-analysis/markets/overviews/market-observatories/fertilisers_en) · [UNCTAD – Maritime Trade Disruptions](https://unctad.org/system/files/official-document/rmt2024_en.pdf). These sources provide complementary perspectives and inform the synthesis developed for this project.*
 
 
-# Historical Risks and Market Transmission (1990–2026)
+# Historical Events and Potential Market Transmission (1990–2026)
 
 | **Period** | **Historical event or development** | **Primary risk category** | **Secondary risk category** | **Potential transmission mechanism** | **Empirical research focus** | **Sources** |
 | ------------------ | ----------------------------------------------------------------- | ------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -56,7 +56,7 @@ There is no single universally applicable classification of all crises affecting
 *Note: The timeline identifies historical events and developments as potential cases for analysing agricultural market resilience in Germany. Risk categories follow the project's conceptual framework. Transmission mechanisms indicate potential pathways rather than confirmed effects. The actual impacts on soft wheat, barley and potato markets will be assessed empirically using production, trade, stock and price data. Overlapping events are not assumed to represent independent causes. The 2026 Iran-war entry reflects a current geopolitical shock; the cited Destatis releases document changes in German import prices and identify conflict-related energy and fertiliser price pressures, but do not by themselves establish causal effects on the three agricultural markets examined in this project.*
 
 
-# Rationale for Data Selection, Observation Periods and Historical Events
+# Rationale for Data Selection and Observation Periods
 
 The data selection is guided by the project's three research dimensions: **Availability and Supply Balance, Price Stability, and Adjustment and Recovery**. Rather than relying on a single indicator, the analysis integrates agricultural production and yield statistics, supply balances, foreign-trade data, agricultural price series, and input price indices. This multidimensional approach provides a basis for examining market developments and comparing soft wheat, barley and potatoes in Germany.
 
@@ -134,7 +134,13 @@ This dimension uses publicly available official statistics for Germany.
 [*Energy and Lubricants - Fertiliser*](https://genesis.destatis.de/datenbank/online/url/a049c6fc)
 
 
-## Progress
+## Methodology and Analytical Framework
+
+## Analysis and Visualisations
+
+## Key Findings an Limitations
+
+## Project Status
 
 * 🟢 Project Concept
 * 🟢 Data Collection
