@@ -98,6 +98,8 @@ There is no single universally applicable classification of all crises affecting
 | 2024 | Annual harvest variation in German cereals and potatoes | Production Risks | Market and Price Risks | Weather conditions, cultivated area, yields and crop-specific growing conditions could contribute to changes in domestic supply. | Assess crop-specific harvest volumes and yields, then determine whether observed deviations represent a meaningful shock or ordinary annual variation. | [Destatis – Field crops and grassland statistics](https://www.destatis.de/EN/Themes/Economic-Sectors-Enterprises/Agriculture-Forestry-Fisheries/Field-Crops-Grassland/_node.html) |
 | 2025 | Annual harvest variation in German cereals and potatoes | Production Risks | Market and Price Risks | Changes in yields, cultivated area and harvest conditions could alter annual crop availability and supply. | Include 2025 as an additional observation year; assess production and supply outcomes without presuming that the year constitutes a crisis. | [Destatis – Grain and potato harvest](https://www.destatis.de/EN/Themes/Economic-Sectors-Enterprises/Agriculture-Forestry-Fisheries/Field-Crops-Grassland/grain-potato-harvest.html) |
 
+*Note: The timeline identifies historical events and developments as potential cases for analysing agricultural market resilience in Germany. Risk categories follow the project's conceptual framework. Transmission mechanisms indicate potential pathways rather than confirmed effects. The actual impacts on soft wheat, barley and potato markets will be assessed empirically using production, trade, stock and price data. Overlapping events are not assumed to represent independent causes.*
+
 
 ## Progress
 
