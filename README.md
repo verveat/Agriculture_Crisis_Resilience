@@ -18,52 +18,6 @@
 **Approach.**<br> Data collection and preparation, exploratory analysis, and visualisation of market and price dynamics, as well as international trade dependencies, to investigate shock magnitude, response timing, shock duration, and recovery patterns.
 
 
-## Data Sources
-
-### 1. Availability and Supply Balance
-
-This dimension uses publicly available official statistics for Germany.
-
-**BMELH – Official Agricultural Statistics (Production Balance, Market Balance, Overall Balance, Financial Year, 2011-2025)**
-
-[*Soft Wheat - Barley Supply Balance*](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/getreide) | [*Potato Supply Balance*](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/kartoffeln)
-
-**BLE – Open Data (Overall supply balance, Financial Year, 1991-2025)**
-
-[*Soft Wheat - Barley Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-getreide) | [*Potato Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-kartoffeln)
-
-**DESTATIS - Harvest and Farm Report (Area under Cultivation, Production, Yield, Year, 2010-2026)**
-
-[*Winter Wheat - Spring Wheat - Winter Barley - Summer Barley - Potato*](https://genesis.destatis.de/datenbank/online/url/fb99c6a2)
-
-**DESTATIS - Foreign Trade Statistics (Monthly, 2008-2025)**
-
-[*Foreign Trade Wheat and Meslin - Barley - Potato*](https://genesis.destatis.de/datenbank/online/url/aeb0bf5d)
-
-**Methodological references**
-
-**Agricultural commodity balances:** [BMEL – Grundlagen der Versorgungsbilanzen](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/grundlagen)
-
-**Foreign trade product classification:** [Destatis – Warenverzeichnis für die Außenhandelsstatistik](https://www.destatis.de/DE/Methoden/Klassifikationen/Aussenhandel/warenverzeichnis-aussenhandel.html)
-
-### 2. Price Stability
-
-**DESTATIS - Price Index (Monthly, 2020=100, 1991-2026)**
-
-[*Price Index Bread Wheat - Feed Wheat - Feed Barley - Malting Barley - Seed Potato - Ware Potato*](https://genesis.destatis.de/datenbank/online/url/465076c8)
-
-**BMELH - Agricultural Producer Prices (Year, 2009-2024)**
-
-[*Soft Wheat - Barley - Malting Barley - Ware Potato*](https://bmel-statistik.de/preise/absolute-agrarpreise?utm_source=chatgpt.com)
-
-**FAOSTAT - AGricultural Producer Prices (Monthly, 1991-2026)**
-
-[*Wheat - Barley - Potato*](https://www.fao.org/faostat/en/#data/PP)
-
-**DESTATIS - Purchase Price Indices of Agricultural Inputs (Quarterly, 2020=100, 1991-2026)**
-
-[*Energy and Lubricants - Fertiliser*](https://genesis.destatis.de/datenbank/online/url/a049c6fc)
-
 ## Risk Categories and Transmission Mechanisms
 
 There is no single universally applicable classification of all crises affecting agricultural markets. This overview draws on established institutional frameworks, particularly the OECD's agricultural risk management framework and the FAO's work on agricultural supply chains. The categories below provide a structured synthesis rather than a verbatim reproduction of one official taxonomy.
@@ -131,6 +85,53 @@ Pre-crisis, crisis and post-crisis periods will be defined separately for each s
 Potential reference periods will be evaluated using the relevant indicators rather than assumed to represent normal market conditions in advance. Adjustment and recovery will be assessed only where the available observations support a meaningful comparison with the selected reference period. A return towards an earlier price or production level will not, on its own, be interpreted as evidence that all dimensions of market resilience have been restored.
 
 Finally, the analysis distinguishes between documented historical events, observed market developments and causal explanations. Because multiple disturbances may overlap, descriptive time-series analysis alone cannot isolate their individual effects. The main quantitative analysis ends in 2025. Data for 2026 may be used for supplementary context where sufficiently complete and comparable observations are available, but will not be treated as a complete post-event period when the evidence is insufficient to assess adjustment and recovery reliably.
+
+
+## Data Sources
+
+### 1. Availability and Supply Balance
+
+This dimension uses publicly available official statistics for Germany.
+
+**BMELH – Official Agricultural Statistics (Production Balance, Market Balance, Overall Balance, Financial Year, 2011-2025)**
+
+[*Soft Wheat - Barley Supply Balance*](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/getreide) | [*Potato Supply Balance*](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/kartoffeln)
+
+**BLE – Open Data (Overall supply balance, Financial Year, 1991-2025)**
+
+[*Soft Wheat - Barley Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-getreide) | [*Potato Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-kartoffeln)
+
+**DESTATIS - Harvest and Farm Report (Area under Cultivation, Production, Yield, Year, 2010-2026)**
+
+[*Winter Wheat - Spring Wheat - Winter Barley - Summer Barley - Potato*](https://genesis.destatis.de/datenbank/online/url/fb99c6a2)
+
+**DESTATIS - Foreign Trade Statistics (Monthly, 2008-2025)**
+
+[*Foreign Trade Wheat and Meslin - Barley - Potato*](https://genesis.destatis.de/datenbank/online/url/aeb0bf5d)
+
+**Methodological references**
+
+**Agricultural commodity balances:** [BMEL – Grundlagen der Versorgungsbilanzen](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/grundlagen)
+
+**Foreign trade product classification:** [Destatis – Warenverzeichnis für die Außenhandelsstatistik](https://www.destatis.de/DE/Methoden/Klassifikationen/Aussenhandel/warenverzeichnis-aussenhandel.html)
+
+### 2. Price Stability
+
+**DESTATIS - Price Index (Monthly, 2020=100, 1991-2026)**
+
+[*Price Index Bread Wheat - Feed Wheat - Feed Barley - Malting Barley - Seed Potato - Ware Potato*](https://genesis.destatis.de/datenbank/online/url/465076c8)
+
+**BMELH - Agricultural Producer Prices (Year, 2009-2024)**
+
+[*Soft Wheat - Barley - Malting Barley - Ware Potato*](https://bmel-statistik.de/preise/absolute-agrarpreise?utm_source=chatgpt.com)
+
+**FAOSTAT - AGricultural Producer Prices (Monthly, 1991-2026)**
+
+[*Wheat - Barley - Potato*](https://www.fao.org/faostat/en/#data/PP)
+
+**DESTATIS - Purchase Price Indices of Agricultural Inputs (Quarterly, 2020=100, 1991-2026)**
+
+[*Energy and Lubricants - Fertiliser*](https://genesis.destatis.de/datenbank/online/url/a049c6fc)
 
 
 ## Progress
