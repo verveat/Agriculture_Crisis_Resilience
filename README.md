@@ -62,7 +62,7 @@ This dimension uses publicly available official statistics for Germany.
 
 **DESTATIS - Purchase Price Indices of Agricultural Inputs (Quarterly, 2020=100)**
 
-[*Energy and lubricants - Fertiliser](https://genesis.destatis.de/datenbank/online/url/a049c6fc)
+[*Energy and lubricants - Fertiliser*](https://genesis.destatis.de/datenbank/online/url/a049c6fc)
 
 ## Risk Categories and Transmission Mechanisms
 
