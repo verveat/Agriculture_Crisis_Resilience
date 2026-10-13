@@ -60,7 +60,7 @@ This dimension uses publicly available official statistics for Germany.
 
 [*Wheat - Barley - Potato*](https://www.fao.org/faostat/en/#data/PP)
 
-**DESTATIS - Purchase Price Indices of Agricultural Inputs (Quarterly, 2020=100)**
+**DESTATIS - Purchase Price Indices of Agricultural Inputs (Quarterly, 2020=100, 1991-2026)**
 
 [*Energy and Lubricants - Fertiliser*](https://genesis.destatis.de/datenbank/online/url/a049c6fc)
 
