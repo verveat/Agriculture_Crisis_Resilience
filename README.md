@@ -55,7 +55,7 @@ There is no single universally applicable classification of all crises affecting
 
 *The historical timeline identifies external shocks and structural changes that may be relevant to the resilience of German barley, potato and soft wheat markets. The transmission mechanisms listed are hypotheses rather than established causal effects. Their relevance must be assessed using product-specific evidence and the observed BLE supply-balance indicators. Calendar-year events must be aligned carefully with the BLE financial-year observations (e.g. 2018/19). Annual harvest outcomes are treated as empirical observations rather than classified as crises by default. The 2026 entry reflects information available as of October 2026 and should be updated as new evidence becomes available.*
 
-Framework source: OECD (2020), *Strengthening Agricultural Resilience in the Face of Multiple Risks*. *[https://doi.org/10.1787/2250453e-en](https://doi.org/10.1787/2250453e-en)*
+*Framework source: OECD (2020),* *Strengthening Agricultural Resilience in the Face of Multiple Risks*. *[https://doi.org/10.1787/2250453e-en](https://doi.org/10.1787/2250453e-en)*
 
 
 # Rationale for Data Selection and Observation Periods
