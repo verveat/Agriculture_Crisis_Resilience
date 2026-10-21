@@ -138,30 +138,6 @@ This dimension uses publicly available official statistics for Germany.
 [*Energy and Lubricants - Fertiliser*](https://genesis.destatis.de/datenbank/online/url/a049c6fc)
 
 
-## Methodology and Analytical Framework
-
-## Analysis and Visualisations
-
-## Key Findings and Limitations
-
-### Limitations
-
-**Differences in Product Classifications.** The data sources use different product classifications and levels of aggregation. For example, wheat and barley statistics may distinguish between crop types or intended uses, while potato statistics follow their own product definitions. Direct comparisons are therefore only appropriate where the underlying definitions are sufficiently comparable.
-
-**Data Availability and Coverage.** Historical coverage varies across sources and indicators. The effective analysis period may consequently differ depending on data availability and the research question.
-
-**Differences in Reporting Periods and Frequency.** The datasets include annual, monthly and quarterly observations and may refer to calendar years or agricultural and marketing years. These differences must be considered when aligning observations and defining crisis and recovery periods.
-
-**Differences in Price Measures.** Price indices and absolute producer prices measure different aspects of price development. Comparisons require consideration of their units, reference periods, product definitions and statistical methodologies.
-
-**Descriptive Nature of the Analysis.** The analysis identifies patterns and potential relationships between production, trade, prices and input costs. However, descriptive time-series analysis alone cannot establish that specific crises caused the observed market changes.
-
-**Assessment of Market Resilience.** The assessment depends on the selected indicators, reference periods and availability of post-crisis data. Changes in production, supply or prices capture only selected dimensions of resilience and do not necessarily establish the overall capacity of a market to absorb, adapt to or recover from shocks.
-
-**Incomplete Data for Recent Periods.** 
-Data for the most recent period may be incomplete, preliminary or subject to revision. The main quantitative analysis therefore focuses on 2008–2025, subject to the coverage and comparability of the individual datasets. More recent observations may be included as supplementary context where appropriate.
-
-
 ## Project Structure
 
 ```text
