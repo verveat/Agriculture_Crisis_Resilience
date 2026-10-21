@@ -188,7 +188,7 @@ Source Data → Data Cleaning → Metric Calculation
 - 🟢 Data Collection
 - 🟢 Data Exploration
 - 🟢 Data Cleaning and Preparation
-- 🟢 Data Analysis
+- 🟡 Data Analysis
 - 🟡 Data Visualisation
 - 🔴 Final Report and Insights
 
