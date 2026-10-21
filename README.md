@@ -230,7 +230,7 @@ The `docs/` directory documents the data, methods, and technical decisions, whil
 🟡 Data Visualisation  
 🔴 Final Report and Insights
 
-**Legend:** 🟢 Completed · 🟡 In Progress · 🔴 Not Started
+**Legend:** 🟢 Completed 🟡 In Progress 🔴 Not Started
 
 
 # Author
