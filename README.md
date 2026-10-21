@@ -164,27 +164,8 @@ Data for the most recent period may be incomplete, preliminary or subject to rev
 
 ## Project Structure
 
+```text
 Portfolio_Project_AGriculture/
-├── .venv/
-├── .vscode/
-├── analysis
-├── dashboard/
-├── data/
-├── docs
-├── images
-├── pipelines.py
-├── reports
-├── src/
-├── .gitignore
-├── .python-version
-├── pyproject.toml
-├── README.md
-├── Test.ipynb
-└── uv.lock
-
-## Project Structure
-
-Portfolio_Project_Agriculture/
 ├── .venv/
 ├── .vscode/
 ├── analysis/
@@ -201,6 +182,7 @@ Portfolio_Project_Agriculture/
 ├── README.md
 ├── Test.ipynb
 └── uv.lock
+```
 
 ### Directory and File Descriptions
 
@@ -236,16 +218,6 @@ The project follows a structured workflow from data collection to analysis and p
 7. **Reporting:** Interpret the results, discuss limitations, and summarize the main conclusions.
 
 The `docs/` directory documents the data, methods, and technical decisions, while `reports/` presents the analytical results and conclusions.
-
-## Data Structure
-
-This section describes the main tables, their
-columns, relationships and key metrics.
-
-## Data Pipeline
-
-Source Data → Data Cleaning → Metric Calculation
-→ Validation → Final Database → Analysis
 
 
 ## Project Status
