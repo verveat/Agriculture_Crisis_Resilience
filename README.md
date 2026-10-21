@@ -162,6 +162,26 @@ This dimension uses publicly available official statistics for Germany.
 Data for the most recent period may be incomplete, preliminary or subject to revision. The main quantitative analysis therefore focuses on 2008–2025, subject to the coverage and comparability of the individual datasets. More recent observations may be included as supplementary context where appropriate.
 
 
+## Project Structure
+
+- `pipeline/`: Data ingestion, cleaning, metric
+  calculation, validation and database loading.
+- `analysis/`: Exploratory data analysis,
+  visualizations and investigation of relationships.
+- `data/`: Source and processed data, where permitted.
+- `reports/`: Analysis results and documentation.
+
+## Data Structure
+
+This section describes the main tables, their
+columns, relationships and key metrics.
+
+## Data Pipeline
+
+Source Data → Data Cleaning → Metric Calculation
+→ Validation → Final Database → Analysis
+
+
 ## Project Status
 
 - 🟢 Project Concept
