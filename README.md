@@ -161,21 +161,22 @@ This dimension uses publicly available official statistics for Germany.
 **Incomplete Data for Recent Periods.** 
 Data for the most recent period may be incomplete, preliminary or subject to revision. The main quantitative analysis therefore focuses on 2008–2025, subject to the coverage and comparability of the individual datasets. More recent observations may be included as supplementary context where appropriate.
 
+
 ## Project Status
 
-* 🟢 Project Concept
-* 🟢 Data Collection
-* 🟢 Data Exploration
-* 🟡 Data Cleaning and Preparation
-* 🔴 Data Analysis
-* 🔴 Data Visualisation
-* 🔴 Final Report and Insights
+- 🟢 Project Concept
+- 🟢 Data Collection
+- 🟢 Data Exploration
+- 🟢 Data Cleaning and Preparation
+- 🟢 Data Analysis
+- 🟡 Data Visualisation
+- 🔴 Final Report and Insights
 
 **Legend:** 🟢 Completed · 🟡 In Progress · 🔴 Not Started
 
 
 # Author
 
-Kordula Pfeiffer. Agricultural and Food Economist. [LinkedIn.](https://www.linkedin.com/in/kordulapfeiffer/)
+Agricultural and Food Economist. 
 
 
