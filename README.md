@@ -58,37 +58,6 @@ There is no single universally applicable classification of all crises affecting
 *Framework source: OECD (2020),* *Strengthening Agricultural Resilience in the Face of Multiple Risks*. *[https://doi.org/10.1787/2250453e-en](https://doi.org/10.1787/2250453e-en)*
 
 
-# Rationale for Data Selection and Observation Periods
-
-The data selection is guided by the project's three research dimensions: **Availability and Supply Balance, Price Stability, and Adjustment and Recovery**. Rather than relying on a single indicator, the analysis integrates agricultural production and yield statistics, supply balances, foreign-trade data, agricultural price series, and input price indices. This multidimensional approach provides a basis for examining market developments and comparing soft wheat, barley and potatoes in Germany.
-
-## Historical Data Horizon and Observation Periods
-
-Where sufficiently comparable observations are available, historical data extending back to 1991 are retained to provide long-term context and help assess whether more recent market developments differ from earlier fluctuations. The 2003 drought and heatwave in Germany are considered as part of this historical context, illustrating the relevance of production-related disturbances. However, 2003 is not a primary case in the quantitative comparative analysis. This distinction avoids treating the subsequent years as a recovery period without first establishing whether the relevant market indicators support such an interpretation.
-
-The main comparative business intelligence analysis covers the period from 2008 to 2025, subject to the availability and comparability of the individual datasets. This period is consistent with the available Destatis series for monthly foreign trade and provides a common starting point for the core trade analysis. Individual price, production and supply indicators may cover longer or shorter periods, depending on their historical availability and reporting frequency. Accordingly, the historical data horizon and the observation period of the main analysis are not necessarily identical.
-
-## Data Selection and Analytical Purpose
-
-Each dataset is selected according to its contribution to the research dimensions. Supply balances provide information on production, trade and domestic use. Harvest statistics capture changes in cultivated area, yields and production volumes. Foreign-trade statistics enable the analysis of imports and exports, including monthly fluctuations. Agricultural price series support the examination of price movements and volatility, while input price indices provide context for potential cost-related transmission mechanisms.
-
-The datasets differ in frequency, product definitions, reporting periods and historical coverage. These differences will be documented during data preparation and considered when selecting indicators and interpreting results. Where reporting periods or product categories cannot be aligned sufficiently, comparisons will be restricted to those supported by the available data. Agricultural marketing years and calendar years will not be treated as interchangeable without appropriate justification.
-
-## Selection of Historical Events and Potential Transmission Mechanisms
-
-The project uses selected historical disturbances to examine how market developments may coincide with different types of shocks. The primary cases are the 2018 drought and heatwave in Germany and the energy, input-cost and geopolitical disturbances that intensified from 2021 onwards, including Russia's full-scale invasion of Ukraine in February 2022. The COVID-19 period from 2020 to 2021 may be included as an additional case where time and data availability permit.
-
-These cases represent different but potentially overlapping transmission mechanisms. Weather-related production shocks may be reflected in yields and harvest volumes. Trade and supply-chain disruptions may coincide with changes in import and export quantities, while increases in energy and fertiliser prices may influence production costs and subsequent production decisions. These relationships are treated as hypotheses rather than assumed causal effects. The temporal coincidence of an event with a change in prices, production or trade is not sufficient to establish causality.
-
-## Comparative Assessment of Pre-Crisis, Crisis and Post-Crisis Periods
-
-Pre-crisis, crisis and post-crisis periods will be defined separately for each selected case, taking into account the timing of the disturbance, the expected delay between the event and its potential market effects, and the availability of comparable observations. The same time windows will not automatically be applied to every event or commodity. Initial observation windows will be adjusted where necessary to reflect the frequency of the data and the characteristics of each market.
-
-Potential reference periods will be evaluated using the relevant indicators rather than assumed to represent normal market conditions in advance. Adjustment and recovery will be assessed only where the available observations support a meaningful comparison with the selected reference period. A return towards an earlier price or production level will not, on its own, be interpreted as evidence that all dimensions of market resilience have been restored.
-
-Finally, the analysis distinguishes between documented historical events, observed market developments and causal explanations. Because multiple disturbances may overlap, descriptive time-series analysis alone cannot isolate their individual effects. The main quantitative analysis ends in 2025. Data for 2026 may be used for supplementary context where sufficiently complete and comparable observations are available, but will not be treated as a complete post-event period when the evidence is insufficient to assess adjustment and recovery reliably.
-
-
 ## Data Sources
 
 ### 1. Availability and Supply Balance
