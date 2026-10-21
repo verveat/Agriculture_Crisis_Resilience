@@ -184,8 +184,7 @@ Portfolio_Project_AGriculture/
 
 ## Project Structure
 
-```text
-Portfolio_Project_AGriculture/
+Portfolio_Project_Agriculture/
 ├── .venv/
 ├── .vscode/
 ├── analysis/
@@ -202,7 +201,6 @@ Portfolio_Project_AGriculture/
 ├── README.md
 ├── Test.ipynb
 └── uv.lock
-```
 
 ### Directory and File Descriptions
 
