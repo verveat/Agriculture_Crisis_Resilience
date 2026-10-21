@@ -222,13 +222,13 @@ The `docs/` directory documents the data, methods, and technical decisions, whil
 
 ## Project Status
 
-  🟢 Project Concept
-  🟢 Data Collection
-  🟢 Data Exploration
-  🟢 Data Cleaning and Preparation
-  🟡 Data Analysis
-  🟡 Data Visualisation
-  🔴 Final Report and Insights
+🟢 Project Concept  
+🟢 Data Collection  
+🟢 Data Exploration  
+🟢 Data Cleaning and Preparation  
+🟡 Data Analysis  
+🟡 Data Visualisation  
+🔴 Final Report and Insights
 
 **Legend:** 🟢 Completed · 🟡 In Progress · 🔴 Not Started
 
