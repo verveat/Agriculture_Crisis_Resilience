@@ -31,7 +31,7 @@ There is no single universally applicable classification of all crises affecting
 | **Policy and Institutional Risks**  | Changes in agricultural, trade or environmental policies              | Market incentives, trade conditions and production decisions              |
 | **Geopolitical and Systemic Risks** | Armed conflicts, pandemics and major cross-border economic disruptions     | Disruptions to energy and input supplies and prices; labour shortages, interruptions to international trade, shifts in aggregate demand |
 
-*Conceptual sources: [OECD – Strengthening Agricultural Resilience in the Face of Multiple Risks (2020)](https://doi.org/10.1787/2250453e-en) · [FAO – Guidelines to Increase the Resilience of Agricultural Supply Chains](https://www.fao.org/markets-and-trade/areas-of-work/emerging-trends-challenges-and-opportunities/guidelines-to-increase-the-resilience-of-agricultural-supply-chains/).The risk categories presented here constitute a structured synthesis of established institutional frameworks and may overlap. They do not represent a single, universally adopted official classification. The risk drivers illustrate factors and developments that may generate or amplify risks, while the transmission mechanisms describe potential pathways through which these risks may affect agricultural markets. Their relevance and empirical effects on the German soft wheat, barley and potato markets will be investigated in this project. Additional sources: [FAO – Agricultural Commodity Markets](https://www.fao.org/publications/fao-flagship-publications/the-state-of-agricultural-commodity-markets/) · [European Commission – Fertiliser Markets](https://agriculture.ec.europa.eu/data-and-analysis/markets/overviews/market-observatories/fertilisers_en) · [UNCTAD – Maritime Trade Disruptions](https://unctad.org/system/files/official-document/rmt2024_en.pdf). These sources provide complementary perspectives and inform the synthesis developed for this project.*
+*Conceptual sources: [OECD – Strengthening Agricultural Resilience in the Face of Multiple Risks (2020)](https://doi.org/10.1787/2250453e-en) · [FAO – Guidelines to Increase the Resilience of Agricultural Supply Chains](https://www.fao.org/markets-and-trade/areas-of-work/emerging-trends-challenges-and-opportunities/guidelines-to-increase-the-resilience-of-agricultural-supply-chains/).The risk categories presented here constitute a structured synthesis of established institutional frameworks and may overlap. They do not represent a single, universally adopted official classification. The risk drivers illustrate factors and developments that may generate or amplify risks, while the transmission mechanisms describe potential pathways through which these risks may affect agricultural markets. Their relevance and empirical effects on the German soft wheat, barley and potato markets will be investigated in this project. Additional sources: [FAO – Agricultural Commodity Markets](https://www.fao.org/publications/fao-flagship-publications/the-state-of-agricultural-commodity-markets/) · [European Commission – Fertiliser Markets](https://agriculture.ec.europa.eu/data-and-analysis/markets/overviews/market-observatories/fertilisers_en) · [UNCTAD – Maritime Trade Disruptions](https://unctad.org/system/files/official-document/rmt2024_en.pdf). These sources offer complementary insights that contribute to the overall analysis.*
 
 
 ## Historical Events and Potential Market Transmission (1990–2026)
@@ -56,37 +56,6 @@ There is no single universally applicable classification of all crises affecting
 *The historical timeline identifies external shocks and structural changes that may be relevant to the resilience of German barley, potato and soft wheat markets. The transmission mechanisms listed are hypotheses rather than established causal effects. Their relevance must be assessed using product-specific evidence and the observed BLE supply-balance indicators. Calendar-year events must be aligned carefully with the BLE financial-year observations (e.g. 2018/19). Annual harvest outcomes are treated as empirical observations rather than classified as crises by default. The 2026 entry reflects information available as of October 2026 and should be updated as new evidence becomes available.*
 
 *Framework source: OECD (2020),* *Strengthening Agricultural Resilience in the Face of Multiple Risks*. *[https://doi.org/10.1787/2250453e-en](https://doi.org/10.1787/2250453e-en)*
-
-
-# Rationale for Data Selection and Observation Periods
-
-The data selection is guided by the project's three research dimensions: **Availability and Supply Balance, Price Stability, and Adjustment and Recovery**. Rather than relying on a single indicator, the analysis integrates agricultural production and yield statistics, supply balances, foreign-trade data, agricultural price series, and input price indices. This multidimensional approach provides a basis for examining market developments and comparing soft wheat, barley and potatoes in Germany.
-
-## Historical Data Horizon and Observation Periods
-
-Where sufficiently comparable observations are available, historical data extending back to 1991 are retained to provide long-term context and help assess whether more recent market developments differ from earlier fluctuations. The 2003 drought and heatwave in Germany are considered as part of this historical context, illustrating the relevance of production-related disturbances. However, 2003 is not a primary case in the quantitative comparative analysis. This distinction avoids treating the subsequent years as a recovery period without first establishing whether the relevant market indicators support such an interpretation.
-
-The main comparative business intelligence analysis covers the period from 2008 to 2025, subject to the availability and comparability of the individual datasets. This period is consistent with the available Destatis series for monthly foreign trade and provides a common starting point for the core trade analysis. Individual price, production and supply indicators may cover longer or shorter periods, depending on their historical availability and reporting frequency. Accordingly, the historical data horizon and the observation period of the main analysis are not necessarily identical.
-
-## Data Selection and Analytical Purpose
-
-Each dataset is selected according to its contribution to the research dimensions. Supply balances provide information on production, trade and domestic use. Harvest statistics capture changes in cultivated area, yields and production volumes. Foreign-trade statistics enable the analysis of imports and exports, including monthly fluctuations. Agricultural price series support the examination of price movements and volatility, while input price indices provide context for potential cost-related transmission mechanisms.
-
-The datasets differ in frequency, product definitions, reporting periods and historical coverage. These differences will be documented during data preparation and considered when selecting indicators and interpreting results. Where reporting periods or product categories cannot be aligned sufficiently, comparisons will be restricted to those supported by the available data. Agricultural marketing years and calendar years will not be treated as interchangeable without appropriate justification.
-
-## Selection of Historical Events and Potential Transmission Mechanisms
-
-The project uses selected historical disturbances to examine how market developments may coincide with different types of shocks. The primary cases are the 2018 drought and heatwave in Germany and the energy, input-cost and geopolitical disturbances that intensified from 2021 onwards, including Russia's full-scale invasion of Ukraine in February 2022. The COVID-19 period from 2020 to 2021 may be included as an additional case where time and data availability permit.
-
-These cases represent different but potentially overlapping transmission mechanisms. Weather-related production shocks may be reflected in yields and harvest volumes. Trade and supply-chain disruptions may coincide with changes in import and export quantities, while increases in energy and fertiliser prices may influence production costs and subsequent production decisions. These relationships are treated as hypotheses rather than assumed causal effects. The temporal coincidence of an event with a change in prices, production or trade is not sufficient to establish causality.
-
-## Comparative Assessment of Pre-Crisis, Crisis and Post-Crisis Periods
-
-Pre-crisis, crisis and post-crisis periods will be defined separately for each selected case, taking into account the timing of the disturbance, the expected delay between the event and its potential market effects, and the availability of comparable observations. The same time windows will not automatically be applied to every event or commodity. Initial observation windows will be adjusted where necessary to reflect the frequency of the data and the characteristics of each market.
-
-Potential reference periods will be evaluated using the relevant indicators rather than assumed to represent normal market conditions in advance. Adjustment and recovery will be assessed only where the available observations support a meaningful comparison with the selected reference period. A return towards an earlier price or production level will not, on its own, be interpreted as evidence that all dimensions of market resilience have been restored.
-
-Finally, the analysis distinguishes between documented historical events, observed market developments and causal explanations. Because multiple disturbances may overlap, descriptive time-series analysis alone cannot isolate their individual effects. The main quantitative analysis ends in 2025. Data for 2026 may be used for supplementary context where sufficiently complete and comparable observations are available, but will not be treated as a complete post-event period when the evidence is insufficient to assess adjustment and recovery reliably.
 
 
 ## Data Sources
@@ -138,41 +107,75 @@ This dimension uses publicly available official statistics for Germany.
 [*Energy and Lubricants - Fertiliser*](https://genesis.destatis.de/datenbank/online/url/a049c6fc)
 
 
-## Methodology and Analytical Framework
+## Project Structure
 
-## Analysis and Visualisations
+```text
+Portfolio_Project_AGriculture/
+├── .venv/
+├── .vscode/
+├── analysis/
+├── dashboard/
+├── data/
+├── docs/
+├── images/
+├── reports/
+├── src/
+├── pipelines.py
+├── .gitignore
+├── .python-version
+├── pyproject.toml
+├── README.md
+├── Test.ipynb
+└── uv.lock
+```
 
-## Key Findings and Limitations
+### Directory and File Descriptions
 
-### Limitations
+| Directory / File | Description |
+|---|---|
+| `.venv/` | Virtual Python environment containing the project's installed dependencies. |
+| `.vscode/` | Project-specific settings and configuration for Visual Studio Code. |
+| `analysis/` | Jupyter notebooks and scripts for exploratory data analysis, statistical analysis, visualizations, and investigation of relationships between variables. |
+| `dashboard/` | Files and resources for developing an interactive dashboard to present key metrics and analytical findings. |
+| `data/` | Directory for downloaded source datasets and processed data used throughout the project, subject to data licensing and privacy restrictions. |
+| `docs/` | Project documentation, including data sources, data processing steps, methodological decisions, metric definitions, and database structure. |
+| `images/` | Images and visual resources used in the project documentation, README, and dashboard. |
+| `reports/` | Analytical reports presenting key findings, visualizations, interpretations, limitations, and conclusions. |
+| `src/` | Reusable Python modules and helper functions for data processing, metric calculation, validation, and other project functionality. |
+| `pipelines.py` | Contains the implementation of data processing pipelines, including preprocessing steps and a `ColumnTransformer` example. |
+| `.gitignore` | Specifies files and directories that Git should exclude from version control, such as virtual environments, temporary files, and local configuration files. |
+| `.python-version` | Specifies the Python version used by the project (3.14). |
+| `pyproject.toml` | Project configuration file defining package metadata, dependencies, and development tools. |
+| `README.md` | Main project documentation, providing an overview of the project, its objectives, structure, progress, and key findings. |
+| `Test.ipynb` | Notebook for testing or experimenting with code and analytical methods. |
+| `uv.lock` | Lock file generated by `uv` to ensure reproducible dependency installation. |
 
-**Differences in Product Classifications.** The data sources use different product classifications and levels of aggregation. For example, wheat and barley statistics may distinguish between crop types or intended uses, while potato statistics follow their own product definitions. Direct comparisons are therefore only appropriate where the underlying definitions are sufficiently comparable.
+### Project Workflow
 
-**Data Availability and Coverage.** Historical coverage varies across sources and indicators. The effective analysis period may consequently differ depending on data availability and the research question.
+The project follows a structured workflow from data collection to analysis and presentation:
 
-**Differences in Reporting Periods and Frequency.** The datasets include annual, monthly and quarterly observations and may refer to calendar years or agricultural and marketing years. These differences must be considered when aligning observations and defining crisis and recovery periods.
+1. **Data Collection:** Obtain and organize the relevant source datasets.
+2. **Data Preparation:** Clean, transform, and validate the data.
+3. **Metric Calculation:** Calculate and verify the key metrics used in the project.
+4. **Database Integration:** Transfer the validated metrics into the final database.
+5. **Data Analysis:** Investigate trends, patterns, and relationships between relevant variables.
+6. **Data Visualization:** Present the findings through charts and, where appropriate, an interactive dashboard.
+7. **Reporting:** Interpret the results, discuss limitations, and summarize the main conclusions.
 
-**Differences in Price Measures.** Price indices and absolute producer prices measure different aspects of price development. Comparisons require consideration of their units, reference periods, product definitions and statistical methodologies.
-
-**Descriptive Nature of the Analysis.** The analysis identifies patterns and potential relationships between production, trade, prices and input costs. However, descriptive time-series analysis alone cannot establish that specific crises caused the observed market changes.
-
-**Assessment of Market Resilience.** The assessment depends on the selected indicators, reference periods and availability of post-crisis data. Changes in production, supply or prices capture only selected dimensions of resilience and do not necessarily establish the overall capacity of a market to absorb, adapt to or recover from shocks.
-
-**Incomplete Data for Recent Periods.** 
-Data for the most recent period may be incomplete, preliminary or subject to revision. The main quantitative analysis therefore focuses on 2008–2025, subject to the coverage and comparability of the individual datasets. More recent observations may be included as supplementary context where appropriate.
+The `docs/` directory documents the data, methods, and technical decisions, while `reports/` presents the analytical results and conclusions.
 
 
 ## Project Status
 
-- 🟢 Project Concept
-- 🟢 Data Collection
-- 🟢 Data Exploration
-- 🟢 Data Cleaning and Preparation
-- 🟢 Data Analysis
-- 🟡 Data Visualisation
-- 🔴 Final Report and Insights
+🟢 Project Concept  
+🟢 Data Collection  
+🟢 Data Exploration  
+🟢 Data Cleaning and Preparation  
+🟡 Data Analysis  
+🟡 Data Visualisation  
+🔴 Final Report and Insights
 
-**Legend:** 🟢 Completed · 🟡 In Progress · 🔴 Not Started
+**Legend:** 🟢 Completed 🟡 In Progress 🔴 Not Started
 
 
 # Author
